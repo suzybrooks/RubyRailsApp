@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am Susana Karirkari. This is a  project on Ruby and Rails
+I created at the Ruby on Rails event in Kumasi.
 
-Things you may want to cover:
+Project Details
 
-* Ruby version
+* Ruby version : Ruby 2.7.5
 
 * System dependencies
 
-* Configuration
-
-* Database creation
+* Database creation : sqlite3
 
 * Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
 * Deployment instructions
-
-A project on Ruby and Rails
