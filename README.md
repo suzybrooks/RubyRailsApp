@@ -1,6 +1,6 @@
 # README
 
-I am Susana Karirkari. This is a  project on Ruby and Rails
+I am Susana Karikari. This is a  project on Ruby and Rails
 I created at the Ruby on Rails event in Kumasi.
 
 Project Details
